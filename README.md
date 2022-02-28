@@ -23,9 +23,6 @@
 
 - [OpenRunet - РосКомСвобода](https://openrunet.org/)
 
-### Средства массовой информации
 
-- [Meduza](https://meduza.io/)
-- [Новая Газета](https://novayagazeta.ru/)
 
 
