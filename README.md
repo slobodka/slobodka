@@ -16,3 +16,16 @@
 - Element - безопасный групповой чат на основе протокола Matrix:
   [iOS](https://apps.apple.com/ru/app/element-messenger/id1083446067),
   [Android](https://play.google.com/store/apps/details?id=im.vector.app&hl=ru&gl=US), [Windows/MacOS/Linux](https://element.io/get-started#download)
+
+## Полезные ссылки
+
+### Технические руководства
+
+- [OpenRunet - РосКомСвобода](https://openrunet.org/)
+
+### Средства массовой информации
+
+- [Meduza](https://meduza.io/)
+- [Новая Газета](https://novayagazeta.ru/)
+
+
